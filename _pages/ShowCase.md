@@ -1,5 +1,5 @@
 ---
-title: "ProjectsSC"
+title: "Show Cases"
 layout: single
 permalink: /projects/SC
 sidebar:
@@ -7,3 +7,5 @@ sidebar:
   nav:
     - projects
 ---
+
+This show case will show all of my projects.
