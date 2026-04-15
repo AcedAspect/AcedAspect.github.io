@@ -1,5 +1,5 @@
 ---
-title: "Hello"
+title: "Niall McCann"
 layout: splash
 permalink: /
 header:
@@ -12,7 +12,7 @@ header:
       target: "_blank"
 
 
-excerpt: "You can add text here."
+excerpt: "Hello and welcome to my website."
 intro: 
   - excerpt: 'You can also add text like this....'
 feature_row:
