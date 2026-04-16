@@ -1,7 +1,7 @@
 ---
-title: "Show Cases"
+title: "Topdown Game"
 layout: single
-permalink: /projects/SC
+permalink: /projects/topdown-game
 sidebar:
   title: "Projects"
   nav:
