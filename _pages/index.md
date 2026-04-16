@@ -35,7 +35,7 @@ feature_row:
     url: "/projects/capstone/"
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="all" %}
 
 {% include feature_row %}
 
