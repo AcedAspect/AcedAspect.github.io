@@ -3,8 +3,12 @@ title: "About Me"
 layout: default
 permalink: /about-me/
 ---
-{% include download
-  title="Contact me"
+information about me
+
+ 
+you can contact me here.
+{% include button
   url="/about-me/contact-me/"
-  button_label="Contact Me"
+  label="Contact me"
+  class="btn--primary"
 %}
