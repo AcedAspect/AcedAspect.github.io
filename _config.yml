@@ -28,6 +28,9 @@ author:
 
   # Author links
   links:
+    - label: "Twitter" # Twitter link
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
     - label: "Email" # Email link
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
