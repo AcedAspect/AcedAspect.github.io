@@ -22,7 +22,7 @@ main:
         url: /pages/splash/
   - title: "Components"
     url: /components/
-  - title: "About ME"
+  - title: "About Me"
     url: /about-me?
  
 
