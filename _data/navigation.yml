@@ -5,8 +5,8 @@ main:
   - title: "Projects"
     url: /projects/
     children:
-      - title: "Game Jam"
-        url: /projects/game-jam/
+      - title: "Video Player"
+        url: /projects/video-player/
       - title: "Capstone"
         url: /projects/capstone/
   - title: "Pages"
@@ -24,8 +24,8 @@ main:
 
 # Sidebar menu for the Projects page
 projects:
-  - title: "Game Jam"
-    url: /projects/game-jam/
+  - title: "Video Player"
+    url: /projects/video-player/
   - title: "Capstone"
     url: /projects/capstone/
 
