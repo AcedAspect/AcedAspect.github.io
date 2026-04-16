@@ -11,8 +11,6 @@ main:
         url: /projects/capstone/
       - title: "Topdown Game"
         url: /projects/topdown-game/
-   - title: "About Me"
-    url: /about-me/
   - title: "Pages"
     url: /pages/
     children:
@@ -24,7 +22,8 @@ main:
         url: /pages/splash/
   - title: "Components"
     url: /components/
- 
+ - title: "About Me"
+    url: /about-me/
  
 
 # Sidebar menu for the Projects page
