@@ -17,12 +17,14 @@ intro:
   - excerpt: 'Here are some examples of some of my work.'
 feature_row:
   - image_path: /assets/images/Screenshot_20260415_164011.png
-    alt: "placeholder image 1"
+    alt: "topdown game picture"
     title: "Topdown Game Demo"
     excerpt: "This is a topdown game demo that I made."
     url: "/projects/topdown-game/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/Screenshot_20260415_162223.png
-    alt: "placeholder image 2"
+    alt: "video player picture"
     title: "Video Player"
     excerpt: "This is my video player that I made using cmake, sdl and ffmpeg"
     url: "/projects/video-player/"
@@ -33,6 +35,8 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "/projects/capstone/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="all" %}
