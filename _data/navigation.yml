@@ -9,6 +9,8 @@ main:
         url: /projects/video-player/
       - title: "Capstone"
         url: /projects/capstone/
+      - title: "Topdown Game"
+        url: /projects/topdown-game/
   - title: "Pages"
     url: /pages/
     children:
@@ -28,6 +30,8 @@ projects:
     url: /projects/video-player/
   - title: "Capstone"
     url: /projects/capstone/
+  - title: "Topdown Game"
+    url: /projects/topdown-game/
 
 # Sidebar menu for the Pages page
 pages:
