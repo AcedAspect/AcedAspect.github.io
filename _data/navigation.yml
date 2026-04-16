@@ -12,7 +12,7 @@ main:
       - title: "Topdown Game"
         url: /projects/topdown-game/
    - title: "About Me"
-    url: /about-me?
+    url: /about-me/
   - title: "Pages"
     url: /pages/
     children:
