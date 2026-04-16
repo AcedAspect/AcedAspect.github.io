@@ -5,7 +5,7 @@ permalink: /about-me/contact-me/
 ---
 
 
-## 14. Embedded Contact Google Form. 
+## Contact Form. 
 {% include google-form
   title="Contact Me"
   src="https://forms.gle/XsbApFoRjn7r24jy6"
