@@ -52,7 +52,7 @@ footer: # Site footer
   links: # Footer links
     - label: "Twitter" # Twitter link
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      #url: "https://twitter.com/"
       target: "_blank"
     - label: "Facebook" # Facebook link
       icon: "fab fa-fw fa-facebook-square"
