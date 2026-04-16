@@ -23,7 +23,7 @@ main:
   - title: "Components"
     url: /components/
   - title: "About Me"
-    url: /about-me?
+    url: /about-me/
  
 
 # Sidebar menu for the Projects page
