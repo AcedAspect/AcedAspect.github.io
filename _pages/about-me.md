@@ -3,6 +3,7 @@ title: "About Me"
 layout: default
 permalink: /about-me/
 ---
+Hello My Name is niall I'm a Game Developer and Programer from Ireland.
 information about me
 
 
