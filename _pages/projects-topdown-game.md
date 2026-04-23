@@ -8,4 +8,5 @@ sidebar:
     - projects
 ---
 
-This show case will show all of my projects.
+I created a 2D topdown game for my univesity degree. 
+
