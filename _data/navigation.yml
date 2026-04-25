@@ -7,8 +7,8 @@ main:
     children:
       - title: "Video Player"
         url: /projects/video-player/
-      - title: "Capstone"
-        url: /projects/capstone/
+      - title: "Kackle Kastle"
+        url: /projects/kackle-kastle/
       - title: "Topdown Game"
         url: /projects/topdown-game/
   - title: "Pages"
@@ -31,7 +31,7 @@ projects:
   - title: "Video Player"
     url: /projects/video-player/
   - title: "Kackle Kastle"
-    url: /projects/capstone/
+    url: /projects/kackle-kastle/
   - title: "Topdown Game"
     url: /projects/topdown-game/
 
