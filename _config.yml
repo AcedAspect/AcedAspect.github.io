@@ -13,8 +13,8 @@ copyright: # "copyright" name, defaults to site.title
 copyright_url: # "copyright" URL, defaults to site.url
 # Theme settings (used by the existing CSS)
 minimal_mistakes_skin    : "test" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-favicon: "/assets/images/linux-tux-logo-linux.png" # Favicon path (update this file)
-favicon_version: 2 # Increment to force browsers to refresh the favicon
+favicon: "assets/images/favicon_io/favicon.png" # Favicon path (update this file)
+favicon_version: 3 # Increment to force browsers to refresh the favicon
 
 
 
