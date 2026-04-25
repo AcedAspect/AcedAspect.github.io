@@ -8,5 +8,6 @@ sidebar:
     - projects
 ---
 
-This page is another project page that is nested within Projects.
+Kackle Kastle is a Game that was made for my 2D group game at uni.                                                  
+more information will be added after the game is finshed.
 
