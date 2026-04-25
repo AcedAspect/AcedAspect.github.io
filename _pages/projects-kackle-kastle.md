@@ -1,7 +1,7 @@
 ---
-title: "Capstone"
+title: "Kackle Kastle"
 layout: single
-permalink: /projects/capstone/
+permalink: /projects/kackle-kastle/
 sidebar:
   title: "Projects"
   nav:
