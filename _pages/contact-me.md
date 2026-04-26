@@ -6,6 +6,6 @@ permalink: /about-me/contact-me/
 
 {% include google-form
   title="Contact Me"
-  src="https://forms.gle/oSS32jV9cap9TU54A"
+  src="https://forms.gle/7HVE7bqKpkRJmY3bA"
   height="800"
 %}
