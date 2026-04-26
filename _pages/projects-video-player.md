@@ -9,8 +9,8 @@ sidebar:
 
 ---
 
-
-
+I created a fully working video player using SDL3 as a front end, it is coded in C++ and uses ffmpeg codecs for decoding.
+{% include figure image_path="/assets/images/Screenshot_20260415_162223.png" alt="video player" caption="This is a picture of the video player" %}
 
 
 This is a project page that is a child of Projects. Take a look at `projects-game-jam.md`to how see the sidebar key displays the nested navigation. 
