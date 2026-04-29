@@ -5,7 +5,8 @@ permalink: /about-me/
 ---
 Hello My Name is niall I'm a Game Developer and Programer from Ireland.                                                                              
 I have experience in the game engines Unity and Godot.                                                                                                              
-information about me
+I have experience programing in C++, c#, python and gdscript.                                              
+
 
 
 
