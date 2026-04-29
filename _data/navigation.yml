@@ -11,17 +11,17 @@ main:
         url: /projects/kackle-kastle/
       - title: "Topdown Game"
         url: /projects/topdown-game/
-  - title: "Pages"
-    url: /pages/
-    children:
-      - title: "Default Layout"
-        url: /pages/default/
-      - title: "Single Layout"
-        url: /pages/single/
-      - title: "Splash Layout"
-        url: /pages/splash/
-  - title: "Components"
-    url: /components/
+#  - title: "Pages"
+#    url: /pages/
+#    children:
+#      - title: "Default Layout"
+#        url: /pages/default/
+#      - title: "Single Layout"
+#        url: /pages/single/
+#      - title: "Splash Layout"
+#        url: /pages/splash/
+#  - title: "Components"
+#    url: /components/
   - title: "About Me"
     url: /about-me/
  
