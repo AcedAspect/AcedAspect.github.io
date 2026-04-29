@@ -10,6 +10,7 @@ sidebar:
 
 I created a 2D topdown game for my univesity degree.                                                                                                   
                                                                                                      
+I used unity for this game aswell as using several free assets.
                                                                                                 
 My topdown game has 3 maps as shown bellow.                                         
 
