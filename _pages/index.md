@@ -34,7 +34,7 @@ feature_row:
     alt: "Kackle Kastle photo"
     title: "Kackle Kastle"
     excerpt: "Kackle Kastle is still a work in progress."
-    url: "/projects/capstone/"
+    url: "/projects/kackle-kastle//"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
