@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/#626880.kra
   actions:
     - label: "Download CV"
-      url: "assets/downloads/B00983234-  Niall.cleaned.pdf"
+      url: "assets/downloads/NiallMcCannCV.pdf"
       target: "_blank"
 
 
