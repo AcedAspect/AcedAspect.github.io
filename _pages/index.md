@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/#626880.kra
   actions:
     - label: "Download CV"
-      url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
+      url: "assets/downloads/B00983234-  Niall.cleaned.pdf"
       target: "_blank"
 
 
