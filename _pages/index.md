@@ -30,7 +30,7 @@ feature_row:
     url: "/projects/video-player/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/#626880.kra
+  - image_path: assets/images/Screenshot 2026-04-30 102402.png
     alt: "Kackle Kastle photo"
     title: "Kackle Kastle"
     excerpt: "Kackle Kastle is still a work in progress."
